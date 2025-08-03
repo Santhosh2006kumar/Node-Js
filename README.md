@@ -65,7 +65,7 @@ Use the token to perform review operations.
 
 🧩 Folder Structure
 perl
-Copy
+
 Edit
 ├── index.js               # Main server file
 ├── booksdb.js             # Book database
