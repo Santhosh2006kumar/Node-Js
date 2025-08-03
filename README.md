@@ -1,7 +1,7 @@
-#📚 Online Book Review API
+📚 Online Book Review API
 This is a Node.js and Express.js-based backend application that serves as a RESTful API for an online book review system. It allows users to browse books, register, login, and perform review operations.
 
-#🚀 Features
+🚀 Features
 Public (Unauthenticated) Endpoints
 GET / — Get a list of all books.
 
