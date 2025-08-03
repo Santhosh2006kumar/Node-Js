@@ -84,4 +84,4 @@ JWT tokens are issued upon successful login and are required for all protected r
  Session management.
 
 📜 License
-MIT
+Students
