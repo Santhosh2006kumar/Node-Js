@@ -63,19 +63,7 @@ Login to obtain a token.
 
 Use the token to perform review operations.
 
-🧩 Folder Structure
-perl
 
-Edit
-├── index.js               # Main server file
-├── booksdb.js             # Book database
-├── abookdb.js             # Async book data
-├── auth_users.js          # Routes for authenticated users
-├── general.js             # Routes for public users
-├── asyn.js                # Async methods with promises/callbacks
-├── package.json
-├── package-lock.json
-└── README.md
 📚 Sample Data
 Includes 10 classic books with metadata (author, title, and optional reviews).
 
